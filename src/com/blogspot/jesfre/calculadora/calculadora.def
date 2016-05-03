@@ -1,0 +1,17 @@
+LIBRARY calculadora
+EXPORTS 
+	Java_com_blogspot_jesfre_calculadora_InterfazNativa_sumar
+	Java_com_blogspot_jesfre_calculadora_InterfazNativa_restar
+	Java_com_blogspot_jesfre_calculadora_InterfazNativa_dividir
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_multiplicar
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_cambioSigno
+	Java_com_blogspot_jesfre_calculadora_InterfazNativa_seno
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_coseno
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_tangente
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_x_1y
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_x_13
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_x_12
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_log
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_negar
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_pi
+        Java_com_blogspot_jesfre_calculadora_InterfazNativa_uno_1x
